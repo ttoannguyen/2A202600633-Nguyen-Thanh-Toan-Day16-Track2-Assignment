@@ -1,0 +1,15 @@
+{
+  "load_time_sec": 2.071,
+  "train_time_sec": 1.527,
+  "best_iteration": 68,
+  "auc_roc": 0.9103,
+  "accuracy": 0.9735,
+  "f1_score": 0.0992,
+  "precision": 0.0527,
+  "recall": 0.8469,
+  "inference_latency_1row_ms": 0.374,
+  "inference_throughput_1000rows_per_sec": 837762.3,
+  "instance_type": "r5.2xlarge",
+  "dataset": "mlg-ulb/creditcardfraud",
+  "n_rows": 284807
+}
